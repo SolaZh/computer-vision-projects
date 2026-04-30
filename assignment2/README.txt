@@ -1,3 +1,8 @@
+vision-transformer-training-and-object-tracking
+vit-depthwiseformer-imagenette-tracking
+transformer-vision-model-and-meanshift-tracking
+lightweight-vision-transformer-experiments
+
 In this folder, there is only one ipynb file and with clear labels where task 1,2,3 is. Here are some tips to run the code.
 The second cell clearly include all required libraries for the code. These should be installed ahead of running. 
 Running on cpu will take hours to process, so make sure it is connected to GPU to save time. You can check this in cell 4.
